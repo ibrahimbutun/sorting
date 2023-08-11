@@ -9,3 +9,5 @@
                      4         8
                                 \    
                                  9
+
+- root 3 alırsak(dizinin yaklaşık olarak ortasındaki sayı) sol kendisinden küçükler, sağa kendisinden büyükler dizilir. ikinci kökler 1 ve 6. Aynı şekilde bunlarında sağına ve soluna sayılar yazılır.
